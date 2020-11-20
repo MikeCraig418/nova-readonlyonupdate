@@ -4,7 +4,7 @@ This package provides a `readonlyOnUpdate()` method to your Fields.
 
 ## Example
 
-![Example](https://github.com/bytelaunch/nova-readonly-on-update/blob/master/preview.gif)
+![Example](https://github.com/949mac/nova-readonlyonupdate/blob/master/preview.gif)
 
 ## Requirements
 
@@ -18,7 +18,7 @@ This package requires:
 You can install this package in a Laravel app that uses Nova via composer:
 
 ```
-composer require bytelaunch/nova-readonly-on-update
+composer require 949mac/nova-readonlyonupdate
 ```
 
 ## Usage
