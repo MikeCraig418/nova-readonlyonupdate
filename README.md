@@ -4,7 +4,7 @@ This package provides a `readonlyOnUpdate()` method to your Fields.
 
 ## Example
 
-![Example](https://github.com/949mac/nova-readonlyonupdate/blob/master/preview.gif)
+![Example](https://github.com/949mac/nova-readonlyonupdate/raw/main/preview.gif)
 
 ## Requirements
 
