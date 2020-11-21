@@ -18,7 +18,7 @@ This package requires:
 You can install this package in a Laravel app that uses Nova via composer:
 
 ```
-composer require 949mac/nova-readonlyonupdate
+composer require bytelaunch/readonly-on-update
 ```
 
 ## Usage
